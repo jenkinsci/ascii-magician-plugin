@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: ascii-magician-$NEXT_MINOR_VERSION
