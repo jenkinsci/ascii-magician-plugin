@@ -1,6 +1,6 @@
 # Ascii Art Magician
 
-A Jenkins plugin that adds a touch of whimsy to your build output by printing random ASCII art of Jenkins in the console.
+A Jenkins plugin that adds a touch of magic to your build output by printing random ASCII art of Jenkins in the console.
 
 ## Installation
 
