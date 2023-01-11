@@ -1,4 +1,4 @@
-package io.jenkins.plugins.main;
+package io.jenkins.plugins.asciimagician;
 
 import hudson.Launcher;
 import hudson.EnvVars;
