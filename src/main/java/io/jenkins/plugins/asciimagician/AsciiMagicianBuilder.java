@@ -29,7 +29,7 @@ public class AsciiMagicianBuilder extends Builder implements SimpleBuildStep {
         int num = rand.nextInt(8) + 1;
 
         listener.getLogger().println("       _            _    _             ____        _ _     _ \n" +
-                "      | |          | |  (_)           |  _ \\      (_) |   | |\n" +
+                "      | |          | |  (_) _         |  _ \\      (_) |   | |\n" +
                 "      | | ___ _ __ | | ___ _ __  ___  | |_) |_   _ _| | __| |\n" +
                 "  _   | |/ _ \\ '_ \\| |/ / | '_ \\/ __| |  _ <| | | | | |/ _` |\n" +
                 " | |__| |  __/ | | |   <| | | | \\__ \\ | |_) | |_| | | | (_| |\n" +
