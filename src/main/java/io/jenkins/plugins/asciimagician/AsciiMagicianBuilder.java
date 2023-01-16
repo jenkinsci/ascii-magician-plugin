@@ -1,5 +1,6 @@
 package io.jenkins.plugins.asciimagician;
 
+
 import hudson.Launcher;
 import hudson.EnvVars;
 import hudson.Extension;
