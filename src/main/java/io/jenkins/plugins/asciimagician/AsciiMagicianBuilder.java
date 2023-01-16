@@ -15,7 +15,6 @@ import jenkins.tasks.SimpleBuildStep;
 import org.jenkinsci.Symbol;
 import java.util.Random;
 
-
 public class AsciiMagicianBuilder extends Builder implements SimpleBuildStep {
     private static final Random rand = new Random();
 
