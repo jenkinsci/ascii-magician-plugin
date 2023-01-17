@@ -1,5 +1,6 @@
 package io.jenkins.plugins.asciimagician;
 
+
 import hudson.Launcher;
 import hudson.EnvVars;
 import hudson.Extension;
@@ -14,6 +15,7 @@ import java.io.IOException;
 import jenkins.tasks.SimpleBuildStep;
 import org.jenkinsci.Symbol;
 import java.util.Random;
+
 
 public class AsciiMagicianBuilder extends Builder implements SimpleBuildStep {
     private static final Random rand = new Random();

