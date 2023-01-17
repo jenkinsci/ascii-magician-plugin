@@ -10,7 +10,7 @@
     <groupId>io.jenkins.plugins</groupId>
     <artifactId>ascii-magician</artifactId>
     <description>Plugin for ascii-arts in the build step...</description>
-    <version>${revision}${changelist}</version>
+    <version>2.17</version>
     <packaging>hpi</packaging>
     <name>Ascii Art Magician</name>
     <url>https://localhost</url>
@@ -23,7 +23,7 @@
     <scm child.scm.connection.inherit.append.path="false" child.scm.developerConnection.inherit.append.path="false" child.scm.url.inherit.append.path="false">
         <connection>scm:git:https://github.com/${gitHubRepo}</connection>
         <developerConnection>scm:git:https://github.com/${gitHubRepo}</developerConnection>
-        <tag>ascii-magician-1.13</tag>
+        <tag>ascii-magician-2.17</tag>
         <url>https://github.com/${gitHubRepo}</url>
     </scm>    <properties>
         <revision>2.17</revision>
