@@ -9,7 +9,7 @@
     </parent>
     <groupId>io.jenkins.plugins</groupId>
     <artifactId>ascii-magician</artifactId>
-    <description>Plugin for ascii-arts in the build step...</description>
+    <description>PLUGIN for ascii-arts in the build step...</description>
     <version>${revision}${changelist}</version>
     <packaging>hpi</packaging>
     <name>Ascii Art Magician</name>
