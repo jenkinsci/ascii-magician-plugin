@@ -12,7 +12,7 @@
     <description>Plugin for ascii-arts in the build step.</description>
     <version>${revision}${changelist}</version>
     <packaging>hpi</packaging>
-    <name>Ascii Art Magician <![CDATA[<span>.</span>]]></name>
+    <name>Ascii Art Magician <![CDATA["<span>.</span>"]]></name>
     <url>https://github.com/jenkinsci/${project.artifactId}-plugin</url>
     <licenses>
         <license>
