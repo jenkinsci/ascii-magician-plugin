@@ -8,7 +8,7 @@
         <relativePath />
     </parent>
     <groupId>io.jenkins.plugins</groupId>
-    <artifactId>ascii-magician-releaseblock</artifactId>
+    <artifactId>ascii-magician</artifactId>
     <description>ascii-magician-plugin</description>
     <version>${revision}${changelist}</version>
     <packaging>hpi</packaging>
