@@ -10,7 +10,7 @@
     <groupId>io.jenkins.plugins</groupId>
     <artifactId>ascii-magician</artifactId>
     <description>ascii-magician-plugin</description>
-    <version>2.33</version>
+    <version>${revision}${changelist}</version>
     <packaging>hpi</packaging>
     <name>Ascii Art Magician</name>
     <url>https://localhost</url>
@@ -26,7 +26,7 @@
         <tag>ascii-magician-2.33</tag>
         <url>https://github.com/${gitHubRepo}</url>
     </scm>    <properties>
-        <revision>2.33</revision>
+        <revision>2.34</revision>
         <changelist>-SNAPSHOT</changelist>
         <!-- https://www.jenkins.io/doc/developer/plugin-development/choosing-jenkins-baseline/ -->
         <jenkins.version>2.361.4</jenkins.version>
